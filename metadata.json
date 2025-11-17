@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Gemini Powered Calculator",
+  "description": "A modern calculator that performs basic arithmetic and answers complex questions using the Gemini API with Google Search grounding for up-to-date and accurate information.",
+  "requestFramePermissions": []
+}
